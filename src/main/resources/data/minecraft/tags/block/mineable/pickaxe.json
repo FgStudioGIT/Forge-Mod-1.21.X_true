@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "labmod:agonite_block",
+    "labmod:raw_agonite_block",
+    "labmod:agonite_ore",
+    "labmod:agonite_deepslate_ore"
+  ]
+}

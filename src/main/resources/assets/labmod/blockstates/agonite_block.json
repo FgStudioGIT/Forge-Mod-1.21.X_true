@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "labmod:block/agonite_block"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "labmod:agonite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "labmod:agonite"
+  }
+}

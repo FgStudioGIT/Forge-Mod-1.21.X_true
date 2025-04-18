@@ -1,0 +1,13 @@
+{
+  "item.labmod.agonite": "Agonite Gem",
+  "item.labmod.raw_agonite": "Raw Agonite",
+
+  "block.labmod.agonite_block": "Block of Agonite",
+  "block.labmod.raw_agonite_block": "Block of Raw Agonite",
+  "block.labmod.agonite_ore": "Agonite Ore",
+  "block.labmod.agonite_deepslate_ore": "Agonite Deepslate Ore",
+
+
+  "creativetab.labmod.agonite_items": "Agonite Items",
+  "creativetab.labmod.agonite_blocks": "Agonite Blocks"
+}

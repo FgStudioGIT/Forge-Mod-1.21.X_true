@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 500,
+  "experience": 0.25,
+  "group": "agonite",
+  "ingredient": {
+    "item": "labmod:raw_agonite"
+  },
+  "result": {
+    "id": "labmod:agonite"
+  }
+}
